@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シェイプシフター",
+  "base_artist": "This is LAST",
+  "createdAt": "2025-12-07T11:30:29.351731Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シェイプシフター",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_シェイプシフター_This_is_LAST.txt"
+    }
+  ]
+}
